@@ -1,0 +1,41 @@
+# Basic VIM commands
+
+#Clean, start or stop a command
+esc
+#Insertion mode
+i
+#Undo command
+u
+#Write
+:w
+#Write and close
+:wq
+#Force close without write
+:q!
+#Set paste mode (to use ctrl+c)
+:set paste
+#Set the number of lines
+:set nu
+#Visual selection mode (per character)
+v
+#Visual selection mode (per line)
+V 
+#Delete mode (after selected character (v) or line (V) by visual selection)
+d
+#Delete mode (line)
+dd
+#Copy (by visual selection v or V)
+y
+#Paste (by visual selection v or V, after y)
+p
+#run over characters
+shift+-> or shift+<-
+#run over pages
+shift+^ or shift+`'
+#identation over lines (by visual selection V)
+> or <
+#lower case (by visual selection V or v)
+u
+#Call Makefile to run Latex (Makefile must be in the same path of the Latex file)
+:!make
+
