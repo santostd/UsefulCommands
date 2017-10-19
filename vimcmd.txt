@@ -6,6 +6,8 @@ esc
 i
 #Undo command
 u
+#Redo command
+ctrl+r (control on MacOS)
 #Write
 :w
 #Write and close
