@@ -40,11 +40,17 @@ shift+^ or shift+`'
 u
 #search
 /
-#repeat an inserion in multiple line
+#repeat an inserion in multiple lines
 ctrl+v
 cursor (j) to select the lines
 shift+i
 type the insertion
+esc
+#repeat delete in multiple lines
+ctrl+v
+cursor (j) to select the lines
+d
+esc
 #Call Makefile to run Latex (Makefile must be in the same path of the Latex file)
 :!make
 
