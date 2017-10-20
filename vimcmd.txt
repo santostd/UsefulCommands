@@ -38,6 +38,13 @@ shift+^ or shift+`'
 > or <
 #lower case (by visual selection V or v)
 u
+#search
+/
+#repeat an inserion in multiple line
+ctrl+v
+cursor (j) to select the lines
+shift+i
+type the insertion
 #Call Makefile to run Latex (Makefile must be in the same path of the Latex file)
 :!make
 
