@@ -1,0 +1,10 @@
+screen example using matlab to run a script:
+
+screen #new terminal will be open
+matlab -nojvm -nodisplay -nosplash #call maltab without display (command line)
+script.m
+ctrl+A+D # type command to detach (and come back to original terminal)
+
+see screen commands:
+screen
+ctrl+A+?
