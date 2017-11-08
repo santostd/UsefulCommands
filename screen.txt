@@ -4,6 +4,8 @@ screen #new terminal will be open
 matlab -nojvm -nodisplay -nosplash #call maltab without display (command line)
 script.m
 ctrl+A+D # type command to detach (and come back to original terminal)
+# to re-attach the terminal with matlab, type:
+screen -r 
 
 see screen commands:
 screen
