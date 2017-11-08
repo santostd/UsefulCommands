@@ -1,4 +1,4 @@
 # Useful Linux Commands
 vim;
-screem;
+screen;
 ssh;
