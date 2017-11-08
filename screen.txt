@@ -10,3 +10,6 @@ screen -r
 see screen commands:
 screen
 ctrl+A+?
+
+more tips:
+https://www.tecmint.com/screen-command-examples-to-manage-linux-terminals/
