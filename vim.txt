@@ -38,7 +38,7 @@ shift+^ or shift+`'
 > or <
 #lower case (by visual selection V or v)
 u
-#lower case (by visual selection V or v)
+#upper case (by visual selection V or v)
 U      (shift+u)
 #search
 /
