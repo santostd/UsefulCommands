@@ -8,6 +8,8 @@ i
 u
 #Redo command
 ctrl+r (control on MacOS)
+#Repeat last change
+.
 #Write
 :w
 #Write and close
